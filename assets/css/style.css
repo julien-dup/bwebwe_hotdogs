@@ -1,0 +1,109 @@
+/* reset */
+
+
+/* main */
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    height: 40px;
+    width: 100vw;
+    background-color: brown;
+}
+
+.line_photo1 {
+    display: flex;
+    width: 100vw;
+    height: 250px;
+    background-color: aqua;
+}
+
+.imgBox1 {
+    width: 25%;
+    height: 100%;
+    border: solid white 3px 3px;
+    background: blueviolet;
+}
+
+.imgBox2 {
+    width: 25%;
+    height: 100%;
+    border: solid white 3px 3px;
+    background: rgb(226, 208, 43);
+}
+
+.imgBox3 {
+    width: 25%;
+    height: 100%;
+    border: solid white 3px 3px;
+    background: rgb(226, 43, 43);
+}
+
+.imgBox4 {
+    width: 25%;
+    height: 100%;
+    border: solid white 3px 3px;
+    background: rgb(49, 226, 43);
+}
+
+.contain {
+    display: flex;
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.863);
+}
+
+.description {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    color: whitesmoke;
+}
+
+.containDesc {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+}
+
+h2 {
+    display: flex;
+    justify-self: center;
+    width: 80%;
+}
+
+.bwebwePhoto {
+    width: 300px;
+    height: 400px;
+}
+
+.form {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15%;
+    background: whitesmoke;
+    color: black;
+}
+
+label {
+    font-weight: bolder;
+    padding: 5px;
+}
+
+
+/* middle screen */
+
+
+/* small screen */
