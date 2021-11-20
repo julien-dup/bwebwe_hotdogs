@@ -15,7 +15,7 @@
 <body>
 
     <nav class="navbar dark_mode " role="navigation">
-        <div id="logo"><img class="logo1" src="assets/image/logo/BwaiBwai!.png" width="cover"alt="logo"></div>
+        <div id="logo"><img class="logo1" src="assets/image/logo/ChezVinc.png" width="cover"alt="logo"></div>
         <div class="slogan"><p>Les meilleurs hot-dogs de la région </p></div>
         <ul class="navbar__links">
             <li class="navbar__link first"><a href="#">Accueil</a></li>
