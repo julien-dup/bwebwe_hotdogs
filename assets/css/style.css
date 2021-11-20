@@ -136,6 +136,19 @@ button {
     margin-bottom: 5%;
 }
 
+.mainPresent {
+    width: 90vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 75px;
+}
+
+#launch {
+    margin-bottom: 450px;
+}
+
 
 /* small screen */
 
