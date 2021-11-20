@@ -176,6 +176,7 @@ p {
     }
     /* bonus animation */
     .show_nav .first {
+        margin-top: 100px;
         transition: all 1s ease-out;
     }
     .show_nav .second {
